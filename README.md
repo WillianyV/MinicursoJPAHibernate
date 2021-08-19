@@ -26,10 +26,10 @@ Os usuários que têm acesso ao sistema podem:
 
 As seguintes ferramentas foram usadas na construção do projeto:
 
--   **JAVA
--   **Hibernate
--   **JPA
--   **PostgreSQLDriver
+-   JAVA
+-   Hibernate
+-   JPA
+-   PostgreSQLDriver
 
 ## 🤔 Como contribuir
 
