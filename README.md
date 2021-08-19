@@ -29,7 +29,7 @@ As seguintes ferramentas foram usadas na construção do projeto:
 -   JAVA
 -   Hibernate
 -   JPA
--   PostgreSQLDriver
+-   PostgreSQL
 
 ## 🤔 Como contribuir
 
